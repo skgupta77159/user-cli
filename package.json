@@ -1,0 +1,21 @@
+{
+  "name": "user-cli",
+  "version": "1.0.0",
+  "description": "CLI for user CRUD operation",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "CLI",
+    "nodeJS",
+    "CRUD"
+  ],
+  "author": "Sushil Kumar Gupta",
+  "license": "ISC",
+  "dependencies": {
+    "commander": "^8.2.0",
+    "inquirer": "^8.1.2",
+    "mongoose": "^6.0.5"
+  }
+}
